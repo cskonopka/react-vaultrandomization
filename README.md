@@ -1,5 +1,5 @@
-# react-vaultrandomization
-#### The *react-vaultrandomization* web application serves analog video synthesis clips. When the user presses the random button, a new vimeo link is selected from a .csv document and displayed on the webpage. 
+# random-AVS-vids
+#### The *random-AVS-vids* web application serves analog video synthesis clips. When the user presses the random button, a new vimeo link is selected from a .csv document and displayed on the webpage. 
 
 <p align="center">
   <img width="75%" height="75%" src="https://i.ibb.co/C5Js1yw/react-vaultrandomization.gif"/>
