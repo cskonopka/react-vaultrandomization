@@ -22,4 +22,4 @@ npm run start
 http://localhost:3000
 ```
 
-3. Press the *random* button and a new video appears
+3. Press the *random video* button and a new video appears
