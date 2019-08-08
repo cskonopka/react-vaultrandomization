@@ -1,13 +1,11 @@
 import React from 'react';
-import Iframe from 'react-iframe'
-import {Button, Row, Col, Grid, Image, ResponsiveEmbed} from 'react-bootstrap'
+
 
 class VideoPlayer extends React.Component {
    render() {
       return (
          <div>
-         
-            <iframe src={this.props.headerProp2} width="640" height="360" frameBorder="0"></iframe>         
+            <iframe title="videovault" src={this.props.headerProp2} width="640" height="360" frameBorder="0"></iframe>         
          </div>
       );
    }

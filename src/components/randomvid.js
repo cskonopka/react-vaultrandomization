@@ -1,8 +1,7 @@
 import React from 'react';
 import '../css/App.css'
-import vault from './cskonopka-vault.csv';
 import testJSON from './cskonopka-vault.json'
-import {Button, Row, Col, Grid, Image, ResponsiveEmbed} from 'react-bootstrap'
+import {Button, Row, Col, Grid, Image} from 'react-bootstrap'
 
 import VideoPlayer from './videoplayer';
 import logo from '../img/csk.jpg'
@@ -16,7 +15,6 @@ var style={
   	right: "0",
   	bottom: "0",
   	left: "0",
-  	width: "20%",
   	height: "20%"
 };
 
@@ -67,7 +65,7 @@ export default class RandomVid extends React.Component {
         <Grid>
         <Row>
         <Col xs={12} md={12}>
-      	<Image style={style} responsive responsive src={logo} />
+      	<Image style={style} responsive src={logo} />
         </Col>
         </Row>
         </Grid>
