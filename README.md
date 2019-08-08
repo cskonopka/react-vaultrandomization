@@ -28,3 +28,9 @@ http://localhost:3000
 <p align="center">
   <img width="75%" height="75%" src="https://i.ibb.co/F60Fx7c/react-vaultrandomization-03.png"/>
 </p>
+
+## Demo
+
+<p align="center">
+  <img width="75%" height="75%" src="https://i.ibb.co/C5Js1yw/react-vaultrandomization.gif"/>
+</p>
