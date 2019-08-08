@@ -8,13 +8,14 @@ import logo from '../img/csk.jpg'
 
 
 var style={
-	width: '100%',
+	// width: '100%',
   	position: "relative",
   	margin: "auto",
   	top: "0",
   	right: "0",
   	bottom: "0",
-  	left: "0",
+    left: "0",
+    width:"20%",
   	height: "20%"
 };
 
