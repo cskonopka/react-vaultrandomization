@@ -10,3 +10,7 @@ Start the web application
 npm run start
 ```
 Navigate to the locally hosted page
+```
+http://localhost:3000
+```
+Press the *random* button
