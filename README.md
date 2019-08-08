@@ -1,8 +1,11 @@
 # react-vaultrandomization
+#### The *react-vaultrandomization* web application serves analog video synthesis clips. When the user presses the random button, a new vimeo link is selected from a .csv document and displayed on the webpage. 
+
 <p align="center">
   <img width="75%" height="75%" src="https://i.ibb.co/HV6HdGq/react-vaultrandomization-01.png"/>
 </p>
-### *react-vaultradomization* is a React+Node web application that serves analog video synthesis clips via user input.
+
+
 
 ## Setup
 Install dependencies
